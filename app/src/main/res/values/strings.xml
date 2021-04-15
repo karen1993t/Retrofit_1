@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Retrofit_1</string>
+    <string name="user_id">User Id</string>
+    <string name="user_name">User Name</string>
+    <string name="description">Description</string>
+    <string name="user_price">User Price</string>
+    <string name="get">Get</string>
+    <string name="discount_amount">Discount_Amount</string>
+</resources>
